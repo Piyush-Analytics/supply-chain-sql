@@ -1,0 +1,11 @@
+"supplier_id","supplier_name","country","city","contact_email","rating","lead_time_days","is_active"
+1,"TechSupply Co.","India","Mumbai","tech@techsupply.com","4.5",7,True
+2,"Global Parts Ltd.","China","Shanghai","info@globalparts.com","3.8",14,True
+3,"FastShip India","India","Delhi","sales@fastship.in","4.2",5,True
+4,"QuickStock Inc.","USA","New York","orders@quickstock.com","4.7",10,True
+5,"EcoGoods Pvt.","India","Bangalore","eco@ecogoods.in","4.0",6,True
+6,"MegaSupplier","China","Beijing","mega@megasupplier.com","3.5",21,True
+7,"SwiftLogistics","India","Chennai","swift@swiftlog.in","4.3",4,True
+8,"PrimeParts Co.","Germany","Berlin","prime@primeparts.de","4.8",12,True
+9,"AsiaTradeHub","Japan","Tokyo","trade@asiatrade.jp","4.6",9,True
+10,"LocalVendors Ltd.","India","Pune","local@localvendors.in","3.9",3,True
